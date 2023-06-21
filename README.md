@@ -138,7 +138,11 @@
 
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/79bec362-b284-4485-aa9b-c59331766820)
 
+![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/266b0047-a5c5-4bad-9d3f-43bfebcf5e59)
+
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/78a2e77f-5fb5-4a8e-8795-9e96b0954d69)
+
+![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/c9052900-375d-4acf-acbe-934da4287168)
 
 </details>
 
