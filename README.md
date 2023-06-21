@@ -67,13 +67,9 @@
 
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/c02ef913-3a93-4012-8c15-44825c8cb030)
 
-![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/2949a54c-9741-4fb8-b53d-4372b2e6c65d)
-
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/2976bb98-ee94-49ec-b28b-e9685f39bf6c)
 
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/a024b1c2-bfd0-49c8-9491-cbee32874768)
-
-![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/293998c0-b332-447d-9ab9-023af008e03b)
 
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/430e49ef-7df5-415e-a337-fe47cf296f8a)
 
@@ -122,11 +118,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/52b45398-e8a7-4e94-8446-70230f2752a6)
-
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/cb0a9422-afbf-4b86-8608-e6eaec05c3d6)
-
-![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/c592488f-5f3a-45c8-a023-7f14b17241fa)
 
 </details>
 
@@ -136,9 +128,11 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/79bec362-b284-4485-aa9b-c59331766820)
-
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/266b0047-a5c5-4bad-9d3f-43bfebcf5e59)
+
+![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/c592488f-5f3a-45c8-a023-7f14b17241fa)
+
+![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/79bec362-b284-4485-aa9b-c59331766820)
 
 ![image](https://github.com/Ivashka80/Zabbix_p1/assets/121082757/78a2e77f-5fb5-4a8e-8795-9e96b0954d69)
 
@@ -153,6 +147,9 @@
 
 ---
 ## Задание 3 со звёздочкой*
+
+<details>
+
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
 
 #### Требования к результаты 
@@ -165,5 +162,6 @@
 2. Прикреплены требуемые скриншоты и тексты 
 3. Задание оформлено в шаблоне с решением и опубликовано на GitHub
 
+</details>
 
 
